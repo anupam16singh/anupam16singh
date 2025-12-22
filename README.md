@@ -1,109 +1,23 @@
-Anupam Singh
+👋 Hi, this is a repo by Anupam Singh.
+I’m a 19-year-old founder and research-oriented technologist exploring how complex systems make decisions — and how those decisions fail.
 
-Founder • Research Builder • Systems Thinker
-Building decision-centric intelligence systems for the real world.
+I’m deeply interested in building intelligent systems that operate under uncertainty and scale across real-world domains.
 
-About Me
+🧠 What I work on & care about:
 
-I’m a 20-year-old founder and independent researcher working at the intersection of artificial intelligence, complex systems, and decision theory.
+🤖 Artificial Intelligence — decision intelligence, human-in-the-loop systems
 
-My core obsession is simple but hard:
+📊 Finance & Markets — risk, regimes, personal CFO systems
 
-Why do intelligent systems — markets, cities, institutions, or AI — fail despite having data, and how do we design decision architectures that remain safe, interpretable, and robust under uncertainty?
+🧩 Complex Systems — emergence, simulations, multi-agent dynamics
 
-I build systems, not demos — research-grade prototypes that prioritize correctness, limits, and long-term responsibility over short-term performance.
+🧠 Systems Design — operating systems, large-scale architectures
 
-What I’m Working On
-🧠 AIDE — Decision Intelligence Layer
+⚛️ Physics-Inspired Computing — information, entropy, computation
 
-A human-in-the-loop decision intelligence system that evaluates high-stakes decisions under uncertainty.
+🏛️ Tech × Governance — policy-aware, scalable civic systems
 
-Focuses on decision safety, not prediction or automation
+I focus on research-grade thinking, not demos —
+building systems meant to survive ambiguity, scale responsibly, and matter in the real world.
 
-Models escalation risk, second-order effects, and regime shifts
-
-Finance is the first application domain; architecture is domain-agnostic
-
-🏙️ Urban Decision Systems
-
-Research into why cities fail due to decision bottlenecks, timing conflicts, and incentive misalignment — not lack of data or infrastructure.
-
-⚙️ Systems & Infrastructure
-
-Exploring foundational computing layers:
-
-New OS architectures and kernels
-
-Brain-inspired AI systems
-
-Agent-based & Monte Carlo simulations for complex systems
-
-Long-horizon infrastructure thinking
-
-Research Philosophy
-
-Decisions matter more than predictions
-
-Interpretability beats raw accuracy in high-stakes systems
-
-Human responsibility must stay in the loop
-
-Systems should fail gracefully, not catastrophically
-
-Build for decades, not demos
-
-I am intentionally conservative about claims and explicit about limitations.
-
-Current Focus Areas
-
-Decision theory & uncertainty
-
-AI safety & interpretability
-
-Financial system failures
-
-Complex adaptive systems
-
-Long-term infrastructure design
-
-Selected Projects
-
-AIDE (Decision Intelligence Prototype)
-
-Agent-Based + Monte Carlo Simulation of Collective Dynamics
-
-Urban Decision Policy Framework
-
-Finance-first AI systems (research prototypes)
-
-(Details in individual repositories.)
-
-Writing & Research
-
-I publish:
-
-Whitepapers
-
-Technical notes
-
-Systems frameworks
-
-Experimental research prototypes
-
-Clarity, honesty, and first principles over hype.
-
-Connect
-
-🌐 Main site: https://www.paradoxailab.com
-
-🧩 Portfolio: https://www.paradoxailab.com
-
-💼 LinkedIn: (add if you want)
-
-If you reach out, please come with specific questions or genuine work — not generic pitches.
-
-Final Note
-
-I’m not optimizing for virality, followers, or quick wins.
-
-I’m optimizing for building things that still make sense 10–20 years from now.
+ 🧠 Core themes: uncertainty → structure · systems > models · decisions > predictions · scale > polish
