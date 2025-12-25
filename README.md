@@ -1,5 +1,5 @@
 👋 Hi, this is a repo by Anupam Singh.
-I’m a 19-year-old founder and research-oriented technologist exploring how complex systems make decisions — and how those decisions fail.
+I’m a 20-year-old founder and research-oriented technologist exploring how complex systems make decisions — and how those decisions fail.
 
 I’m deeply interested in building intelligent systems that operate under uncertainty and scale across real-world domains.
 
