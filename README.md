@@ -1,23 +1,60 @@
-👋 Hi, this is a repo by Anupam Singh.
-I’m a 20-year-old founder and research-oriented technologist exploring how complex systems make decisions — and how those decisions fail.
+Anupam Singh
 
-I’m deeply interested in building intelligent systems that operate under uncertainty and scale across real-world domains.
+Founder @ ParadoxAI Lab
+Building AI-native Decision Intelligence Systems
 
-🧠 What I work on & care about:
+⚙️ Systems
+Meridian → decision intelligence engine
+(context modeling → decomposition → simulation → strategy)
+ParadoxAI Lab → full-stack decision infrastructure
+(AI + data + economics + system design)
+🧠 Focus Areas
+Decision Intelligence & Systems Thinking
+AI Systems (beyond LLM wrappers)
+Financial Systems & Macro
+Distributed & Data-Intensive Systems
+🛠️ Tech Stack
+Languages
 
-🤖 Artificial Intelligence — decision intelligence, human-in-the-loop systems
+Python TypeScript C++ Solidity
 
-📊 Finance & Markets — risk, regimes, personal CFO systems
+Frontend
 
-🧩 Complex Systems — emergence, simulations, multi-agent dynamics
+React Next.js TailwindCSS Flutter
 
-🧠 Systems Design — operating systems, large-scale architectures
+Backend
 
-⚛️ Physics-Inspired Computing — information, entropy, computation
+Node.js FastAPI Express
 
-🏛️ Tech × Governance — policy-aware, scalable civic systems
+AI / ML
 
-I focus on research-grade thinking, not demos —
-building systems meant to survive ambiguity, scale responsibly, and matter in the real world.
+PyTorch Transformers LLMs RAG Vector DBs
 
- 🧠 Core themes: uncertainty → structure · systems > models · decisions > predictions · scale > polish
+Data & Infra
+
+PostgreSQL MongoDB Redis
+Docker Kubernetes Kafka
+
+Web3 / Crypto
+
+Ethers.js Hardhat Polygon IPFS zk-SNARKs
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anupam16singh&show_icons=true&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam16singh&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam16singh&layout=compact&hide_border=true" height="150"/>
+</p>
+
+## ⚡ Activity
+
+- Building decision intelligence systems (AIDE, Meridian)
+- Researching market regimes & risk systems
+- Exploring complex systems & simulation frameworks
+Systems / Tools
+
+Git Linux REST APIs System Design
