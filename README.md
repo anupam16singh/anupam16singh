@@ -1,60 +1,195 @@
-Anupam Singh
+# Anupam Singh
 
-Founder @ ParadoxAI Lab
-Building AI-native Decision Intelligence Systems
+### Founder @ ParadoxAI Lab  
+Building AI-native decision intelligence infrastructure and real-time operational systems.
 
-⚙️ Systems
-Meridian → decision intelligence engine
-(context modeling → decomposition → simulation → strategy)
-ParadoxAI Lab → full-stack decision infrastructure
-(AI + data + economics + system design)
-🧠 Focus Areas
-Decision Intelligence & Systems Thinking
-AI Systems (beyond LLM wrappers)
-Financial Systems & Macro
-Distributed & Data-Intensive Systems
-🛠️ Tech Stack
-Languages
+---
 
-Python TypeScript C++ Solidity
+## About Me
 
-Frontend
+I am a systems-focused builder and founder working at the intersection of AI, distributed systems, economic intelligence, and large-scale infrastructure.
 
-React Next.js TailwindCSS Flutter
+My work focuses on designing AI-native systems that go beyond traditional LLM wrappers — building operational intelligence platforms capable of contextual reasoning, simulation, strategic decomposition, and autonomous decision support.
 
-Backend
+Currently building technologies across:
 
-Node.js FastAPI Express
+- Decision Intelligence
+- Autonomous AI Systems
+- Distributed Infrastructure
+- Economic & Financial Intelligence
+- Real-Time Operational Systems
+- Simulation & Strategic Modeling
+- AI-native System Architecture
 
-AI / ML
+---
 
-PyTorch Transformers LLMs RAG Vector DBs
+# Current Projects
 
-Data & Infra
+## Meridian
+AI-native decision intelligence engine focused on:
 
-PostgreSQL MongoDB Redis
-Docker Kubernetes Kafka
+- contextual reasoning
+- strategic planning
+- decomposition systems
+- simulation-driven intelligence
+- operational coordination
+- multi-agent workflows
+- autonomous decision support
 
-Web3 / Crypto
+## ParadoxAI Lab
+Research and engineering lab building next-generation intelligence infrastructure.
 
-Ethers.js Hardhat Polygon IPFS zk-SNARKs
+Core areas include:
 
-## 📊 Stats
+- AI-native infrastructure
+- operational intelligence systems
+- distributed data platforms
+- strategic simulation frameworks
+- large-scale backend systems
+- real-time situational awareness
+- intelligent orchestration systems
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anupam16singh&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam16singh&hide_border=true" height="150"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam16singh&layout=compact&hide_border=true" height="150"/>
-</p>
+# Technical Focus
 
-## ⚡ Activity
+## Artificial Intelligence & Machine Learning
 
-- Building decision intelligence systems (AIDE, Meridian)
-- Researching market regimes & risk systems
-- Exploring complex systems & simulation frameworks
-Systems / Tools
+- LLM Systems Engineering
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Systems
+- Multi-Agent Architectures
+- Vector Search & Semantic Retrieval
+- AI Infrastructure
+- Fine-tuning & Model Optimization
+- Inference Systems
+- Knowledge Systems
+- Context Engineering
 
-Git Linux REST APIs System Design
+## Systems Engineering
+
+- Distributed Systems
+- Event-Driven Architecture
+- Real-Time Data Systems
+- High-Performance Backend Systems
+- Scalable Infrastructure
+- System Design
+- Fault-Tolerant Architectures
+- Data Pipelines
+- API Infrastructure
+- Microservices
+
+## Data & Intelligence
+
+- Operational Intelligence
+- Financial & Macro Systems
+- Decision Intelligence
+- Simulation Frameworks
+- Risk Systems
+- Complex Systems Modeling
+- Strategic Intelligence Systems
+
+---
+
+# Tech Stack
+
+## Languages
+
+- Python
+- TypeScript
+- C++
+- Solidity
+- SQL
+
+## Frontend
+
+- React
+- Next.js
+- TailwindCSS
+- Flutter
+
+## Backend
+
+- FastAPI
+- Node.js
+- Express.js
+- REST APIs
+- WebSockets
+
+## AI / ML
+
+- PyTorch
+- Hugging Face Transformers
+- LangChain
+- RAG Pipelines
+- Vector Databases
+- Embedding Systems
+- AI Agents
+- LLM Orchestration
+
+## Databases & Infrastructure
+
+- PostgreSQL
+- MongoDB
+- Redis
+- Kafka
+- Docker
+- Kubernetes
+- Linux
+- Git
+
+## Cloud & DevOps
+
+- Vercel
+- Fly.io
+- CI/CD Pipelines
+- Deployment Automation
+- Infrastructure Design
+
+## Web3 & Cryptography
+
+- Ethers.js
+- Hardhat
+- Polygon
+- IPFS
+- zk-SNARKs
+- Smart Contracts
+
+---
+
+# Areas of Exploration
+
+- AI-native operating systems
+- Strategic simulation engines
+- Autonomous operational systems
+- Intelligence infrastructure
+- Economic modeling systems
+- Defense & operational AI
+- Human-AI coordination systems
+- Complex adaptive systems
+- Real-time intelligence platforms
+
+---
+
+# Philosophy
+
+Building systems designed for intelligence, coordination, and strategic reasoning — not just automation.
+
+Focused on creating infrastructure that enables AI systems to understand context, reason across uncertainty, and support real-world operational decision-making at scale.
+
+---
+
+# Systems & Tools
+
+- Linux
+- Git
+- Docker
+- Kubernetes
+- REST APIs
+- System Design
+- Distributed Architecture
+- Real-Time Infrastructure
+- Backend Engineering
+- AI Systems Design
+
+---
