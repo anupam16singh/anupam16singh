@@ -1,195 +1,126 @@
 # Anupam Singh
 
 ### Founder @ ParadoxAI Lab  
-Building AI-native decision intelligence infrastructure and real-time operational systems.
+Building AI-native infrastructure, operational intelligence systems, and large-scale decision platforms.
 
 ---
 
-## About Me
+## About
 
-I am a systems-focused builder and founder working at the intersection of AI, distributed systems, economic intelligence, and large-scale infrastructure.
+Systems-focused founder and engineer working at the intersection of:
 
-My work focuses on designing AI-native systems that go beyond traditional LLM wrappers — building operational intelligence platforms capable of contextual reasoning, simulation, strategic decomposition, and autonomous decision support.
-
-Currently building technologies across:
-
-- Decision Intelligence
-- Autonomous AI Systems
+- AI Systems
 - Distributed Infrastructure
-- Economic & Financial Intelligence
-- Real-Time Operational Systems
-- Simulation & Strategic Modeling
-- AI-native System Architecture
+- Operational Intelligence
+- Financial & Economic Systems
+- Real-Time Data Platforms
+- Autonomous Decision Systems
+
+Focused on building AI-native systems that move beyond traditional LLM wrappers toward scalable reasoning, orchestration, and intelligence infrastructure.
 
 ---
 
-# Current Projects
-
-## Meridian
-AI-native decision intelligence engine focused on:
-
-- contextual reasoning
-- strategic planning
-- decomposition systems
-- simulation-driven intelligence
-- operational coordination
-- multi-agent workflows
-- autonomous decision support
+# Projects
 
 ## ParadoxAI Lab
-Research and engineering lab building next-generation intelligence infrastructure.
+AI-native research and engineering lab focused on building next-generation intelligence infrastructure and operational systems.
 
-Core areas include:
+Core areas:
 
-- AI-native infrastructure
 - operational intelligence systems
-- distributed data platforms
-- strategic simulation frameworks
-- large-scale backend systems
+- AI-native infrastructure
+- autonomous decision systems
+- distributed backend platforms
+- strategic simulation systems
 - real-time situational awareness
-- intelligent orchestration systems
+- large-scale inference infrastructure
+- human-AI coordination systems
+
+### Focus
+`AI Infrastructure` `Operational Intelligence` `Distributed Systems` `Real-Time Systems` `Strategic Intelligence`
+
+---
+
+## AirTwin
+AI-native operational intelligence and situational awareness platform.
+
+Core capabilities:
+
+- multi-source intelligence ingestion
+- event-driven architecture
+- real-time monitoring pipelines
+- contextual reasoning systems
+- AI-assisted operational workflows
+- intelligence dashboards
+- distributed orchestration systems
+- live operational coordination
+
+### Stack
+`Next.js` `TypeScript` `FastAPI` `PostgreSQL` `Redis` `Kafka` `Docker` `Kubernetes` `WebSockets` `LLMs`
+
+---
+
+## Buildplan.ai
+AI-native software architecture and deployment platform transforming product ideas into production-ready systems.
+
+Core capabilities:
+
+- AI-generated system architecture
+- infrastructure planning
+- automated deployment workflows
+- backend + frontend generation
+- DevOps orchestration
+- cloud deployment automation
+- monorepo system generation
+
+### Stack
+`Next.js` `TypeScript` `FastAPI` `Terraform` `Docker` `PostgreSQL` `Vercel` `Fly.io`
 
 ---
 
 # Technical Focus
 
-## Artificial Intelligence & Machine Learning
-
-- LLM Systems Engineering
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Systems
-- Multi-Agent Architectures
-- Vector Search & Semantic Retrieval
-- AI Infrastructure
-- Fine-tuning & Model Optimization
-- Inference Systems
-- Knowledge Systems
-- Context Engineering
-
-## Systems Engineering
-
+- AI Systems Engineering
 - Distributed Systems
-- Event-Driven Architecture
-- Real-Time Data Systems
-- High-Performance Backend Systems
-- Scalable Infrastructure
-- System Design
-- Fault-Tolerant Architectures
+- Event-Driven Architectures
+- Real-Time Intelligence Infrastructure
+- LLM Systems & RAG
+- Multi-Agent Systems
+- Backend Infrastructure
 - Data Pipelines
-- API Infrastructure
-- Microservices
-
-## Data & Intelligence
-
 - Operational Intelligence
-- Financial & Macro Systems
-- Decision Intelligence
-- Simulation Frameworks
-- Risk Systems
-- Complex Systems Modeling
-- Strategic Intelligence Systems
+- System Design
+- Infrastructure Engineering
+- Simulation & Strategic Systems
 
 ---
 
 # Tech Stack
 
 ## Languages
-
-- Python
-- TypeScript
-- C++
-- Solidity
-- SQL
+`Python` `TypeScript` `C++` `Solidity` `SQL`
 
 ## Frontend
-
-- React
-- Next.js
-- TailwindCSS
-- Flutter
+`React` `Next.js` `TailwindCSS` `Flutter`
 
 ## Backend
-
-- FastAPI
-- Node.js
-- Express.js
-- REST APIs
-- WebSockets
+`FastAPI` `Node.js` `Express.js` `REST APIs` `WebSockets`
 
 ## AI / ML
-
-- PyTorch
-- Hugging Face Transformers
-- LangChain
-- RAG Pipelines
-- Vector Databases
-- Embedding Systems
-- AI Agents
-- LLM Orchestration
+`PyTorch` `Transformers` `RAG` `Vector Databases` `LLM Systems` `AI Agents`
 
 ## Databases & Infrastructure
-
-- PostgreSQL
-- MongoDB
-- Redis
-- Kafka
-- Docker
-- Kubernetes
-- Linux
-- Git
+`PostgreSQL` `MongoDB` `Redis` `Kafka` `Docker` `Kubernetes`
 
 ## Cloud & DevOps
-
-- Vercel
-- Fly.io
-- CI/CD Pipelines
-- Deployment Automation
-- Infrastructure Design
+`Vercel` `Fly.io` `CI/CD` `Deployment Automation` `Linux` `Git`
 
 ## Web3 & Cryptography
-
-- Ethers.js
-- Hardhat
-- Polygon
-- IPFS
-- zk-SNARKs
-- Smart Contracts
+`Ethers.js` `Hardhat` `Polygon` `IPFS` `zk-SNARKs`
 
 ---
 
-# Areas of Exploration
-
-- AI-native operating systems
-- Strategic simulation engines
-- Autonomous operational systems
-- Intelligence infrastructure
-- Economic modeling systems
-- Defense & operational AI
-- Human-AI coordination systems
-- Complex adaptive systems
-- Real-time intelligence platforms
-
----
 
 # Philosophy
 
-Building systems designed for intelligence, coordination, and strategic reasoning — not just automation.
-
-Focused on creating infrastructure that enables AI systems to understand context, reason across uncertainty, and support real-world operational decision-making at scale.
-
----
-
-# Systems & Tools
-
-- Linux
-- Git
-- Docker
-- Kubernetes
-- REST APIs
-- System Design
-- Distributed Architecture
-- Real-Time Infrastructure
-- Backend Engineering
-- AI Systems Design
-
----
+Building infrastructure for intelligence, coordination, and real-world operational decision-making at scale.
